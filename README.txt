@@ -3,3 +3,4 @@ Author Nzioka Mutungi
 Date   17-07-2015
 time	Afternoon
 venue	Tb snapes
+At the software carpentry workshop friday morning
