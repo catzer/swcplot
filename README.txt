@@ -1,6 +1,6 @@
-code to plot paTient Da
+code to plot patient data
 Author Nzioka Mutungi
 Date   17-07-2015
-time	Afternoon
+time	11:37
 venue	Tb snapes
 At the software carpentry workshop friday morning
